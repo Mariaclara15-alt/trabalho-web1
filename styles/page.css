@@ -63,6 +63,10 @@
             li:nth-of-type(3){
                 color: var(--accent-orange);
             }
+
+            footer {
+                text-align: center;
+            }
         }
     }
 
